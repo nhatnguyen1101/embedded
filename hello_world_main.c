@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 #include "hello_world.h"
+=======
+>>>>>>> db9badf6751372784c2c585ebbd19af563c28617
 #include <stdio.h>
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"

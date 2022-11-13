@@ -21,3 +21,4 @@
         – Create Tasks with xTaskCreatePinnedToCore.
     • Step 6: Save the output to text file and perform statistics by python to check the schedule process of the system.
 ## **Result**
+    The result of the test is placed in the Result folder. I've named the character "x" for task 1, "y" for task 2, and "z" for task 3. After running I save the result in the text file to analyze. Since we only PIN these tasks to core 0 (NOT CORE 1), it runs as expected from the document from FreeRTOS, which is designed to run on MCU with a single core.

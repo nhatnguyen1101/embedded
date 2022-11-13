@@ -1,5 +1,5 @@
-###### Welcome to Lab3.\
-## **Goal**: In this lab, we are expected to ...\
+###### Welcome to Lab3.
+## **Goal**: In this lab, we are expected to ...
 • Have a deeper look in FreeRTOS tasks\
 • Understand the task scheduling algorithm in the FreeRTOS\
 • Be able to configure the FreeRTOS scheduling algorithm\

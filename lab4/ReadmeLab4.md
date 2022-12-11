@@ -1,7 +1,7 @@
 ### Embedded System Lab 04
 ## FreeRTOS Queue Management
 # 1. Implementation process
-  Step 1: prepare components _ ESP32 board.\\
+  Step 1: prepare components _ ESP32 board.  
   Step 2: set up the environment to connect.
   Step 3: Declare the variables needed for the program.
   Step 4: Implement function void CreateRequest(void) according to different type.
